@@ -1,3 +1,11 @@
+# Sample Express GraphQL Queries
+
+## How to use
+```
+$ npm install
+$ npm run dev
+```
+
 ## Example Queries
 
 ```js
